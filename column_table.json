@@ -1,0 +1,72 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "name",
+      "type": "STRING"
+    },
+    {
+      "name": "category",
+      "type": "STRING"
+    },
+    {
+      "name": "country",
+      "type": "STRING"
+    },
+    {
+      "name": "num_episodes",
+      "type": "STRING"
+    },
+    {
+      "name": "aired",
+      "type": "STRING"
+    },
+    {
+      "name": "orginal_network",
+      "type": "STRING"
+    },
+    {
+      "name": "duration",
+      "type": "STRING"
+    },
+    {
+      "name": "watchers",
+      "type": "STRING"
+    },
+    {
+      "name": "director",
+      "type": "STRING"
+    },
+    {
+      "name": "screenwriter",
+      "type": "STRING"
+    },
+    {
+      "name": "rating",
+      "type": "STRING"
+    },
+    {
+      "name": "num_raters",
+      "type": "STRING"
+    },
+    {
+      "name": "cast_names",
+      "type": "STRING"
+    },
+    {
+      "name": "genre_names",
+      "type": "STRING"
+    },
+    {
+      "name": "tag_names",
+      "type": "STRING"
+    },
+    {
+      "name": "synopsis",
+      "type": "STRING"
+    },
+    {
+      "name": "url",
+      "type": "STRING"
+    }
+  ]
+}
